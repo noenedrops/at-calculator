@@ -1,0 +1,47 @@
+body{
+	margin:5%;
+	padding:15px;
+}
+
+.wrapper{
+	width:30%;
+	min-width:330px;
+}
+p{
+	display: inline;
+	padding-left:10px;
+}
+.ship{
+	margin-top:5px;
+}
+
+button{
+	margin-top: 5px;
+}
+
+.floatingright{
+	float:right;
+	width:140px;
+	padding:5px;	
+	background-color: #f1f1f1;
+	border: solid thin #c0c0c0;
+	border-radius: 5px;
+}
+.floatingleft{
+	float:left;
+}
+
+.bottom textarea {
+    width: 100%;
+    max-width:100%;
+    margin-top:10px;
+}
+
+.bottom {
+    width: 100%;
+}
+
+.bottom p {
+    text-align: center;
+    width: 100%;
+}

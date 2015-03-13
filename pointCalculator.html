@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>AT Point Calculator</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="js/calc.js"></script>
+	</head>
+
+	<body>
+		<div class="wrapper">
+		<h1>AT Point Calculator</h1>
+		<!-- Point Floating Window -->
+		<div class="floatingright">
+			<h4>Points</h4>
+			<p id="pointpara">Total Points: <span id="totalpoints"></span></p>
+		</div>
+
+		<!-- Ship Form -->
+		<div class="floatingleft">
+		<div class="ship" id="orig">
+			<input type="text" class="shipEntry">
+		</div>
+		<button id="newShip">Add Ship</button>
+		</div>
+		<br>
+		<div class="bottom">
+			<textarea id="fleetcomp" placeholder="Paste Fleet Composition Window here"></textarea>
+		</div>
+	</div>
+	</body>
+</html>
