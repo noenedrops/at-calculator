@@ -100,6 +100,11 @@ var data = [
         "points": 17
     },
     {
+        "label": "Dominix Navy Issue",
+        "shiptype": "Navy Faction Battleships",
+        "points": 17
+    },
+    {
         "label": "Abaddon",
         "shiptype": "Battleships",
         "points": 16
@@ -271,6 +276,11 @@ var data = [
     },
     {
         "label": "Rapier",
+        "shiptype": "Recon Ships",
+        "points": 13
+    },
+    {
+        "label": "Rook",
         "shiptype": "Recon Ships",
         "points": 13
     },
@@ -957,6 +967,51 @@ var data = [
     {
         "label": "Tormentor",
         "shiptype": "Frigates",
+        "points": 2
+    },
+    {
+        "label": "Reaper",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Impairor",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Ibis",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Velator",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+   {
+        "label": "Violator",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Echo",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Hematos",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Taipan",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Immolator",
+        "shiptype": "Pirate Rookie Ship",
         "points": 2
     },
     {
