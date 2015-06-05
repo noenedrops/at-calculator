@@ -287,62 +287,82 @@ var data = [
     {
         "label": "Brutix",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Cyclone",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Drake",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Ferox",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Harbinger",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Hurricane",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Myrmidon",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Naga",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Oracle",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Prophecy",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Talos",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Tornado",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
+    },
+    {
+        "label": "Brutix Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Drake Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Harbinger Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Hurricane Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
     },
     {
         "label": "Basilisk",
