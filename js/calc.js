@@ -100,6 +100,11 @@ var data = [
         "points": 17
     },
     {
+        "label": "Dominix Navy Issue",
+        "shiptype": "Navy Faction Battleships",
+        "points": 17
+    },
+    {
         "label": "Abaddon",
         "shiptype": "Battleships",
         "points": 16
@@ -275,64 +280,89 @@ var data = [
         "points": 13
     },
     {
+        "label": "Rook",
+        "shiptype": "Recon Ships",
+        "points": 13
+    },
+    {
         "label": "Brutix",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Cyclone",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Drake",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Ferox",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Harbinger",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Hurricane",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Myrmidon",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Naga",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Oracle",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Prophecy",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Talos",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Tornado",
         "shiptype": "Battlecruisers",
-        "points": 11
+        "points": 12
+    },
+    {
+        "label": "Brutix Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Drake Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Harbinger Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
+    },
+    {
+        "label": "Hurricane Navy Issue",
+        "shiptype": "Navy Faction Battlecruisers",
+        "points": 13
     },
     {
         "label": "Basilisk",
@@ -957,6 +987,51 @@ var data = [
     {
         "label": "Tormentor",
         "shiptype": "Frigates",
+        "points": 2
+    },
+    {
+        "label": "Reaper",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Impairor",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Ibis",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+    {
+        "label": "Velator",
+        "shiptype": "Rookie Ship",
+        "points": 1
+    },
+   {
+        "label": "Violator",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Echo",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Hematos",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Taipan",
+        "shiptype": "Pirate Rookie Ship",
+        "points": 2
+    },
+   {
+        "label": "Immolator",
+        "shiptype": "Pirate Rookie Ship",
         "points": 2
     },
     {
