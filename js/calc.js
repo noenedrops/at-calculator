@@ -105,6 +105,11 @@ var data = [
         "points": 17
     },
     {
+        "label": "Scorpion Navy Issue",
+        "shiptype": "Navy Faction Battleships",
+        "points": 17
+    },
+    {
         "label": "Abaddon",
         "shiptype": "Battleships",
         "points": 16
