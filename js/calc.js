@@ -292,82 +292,82 @@ var data = [
     {
         "label": "Brutix",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Cyclone",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Drake",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Ferox",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Harbinger",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Hurricane",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Myrmidon",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Naga",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Oracle",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Prophecy",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Talos",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Tornado",
         "shiptype": "Battlecruisers",
-        "points": 12
+        "points": 11
     },
     {
         "label": "Brutix Navy Issue",
         "shiptype": "Navy Faction Battlecruisers",
-        "points": 13
+        "points": 12
     },
     {
         "label": "Drake Navy Issue",
         "shiptype": "Navy Faction Battlecruisers",
-        "points": 13
+        "points": 12
     },
     {
         "label": "Harbinger Navy Issue",
         "shiptype": "Navy Faction Battlecruisers",
-        "points": 13
+        "points": 12
     },
     {
         "label": "Hurricane Navy Issue",
         "shiptype": "Navy Faction Battlecruisers",
-        "points": 13
+        "points": 12
     },
     {
         "label": "Basilisk",
