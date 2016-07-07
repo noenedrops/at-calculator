@@ -820,6 +820,26 @@ var data = [
         "points": 3
     },
     {
+        "label": "Scalpel",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Thalia",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Kirin",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Deacon",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
         "label": "Eris",
         "shiptype": "Interdictors",
         "points": 4
