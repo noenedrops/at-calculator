@@ -2,22 +2,22 @@ var data = [
     {
         "label": "Golem",
         "shiptype": "Marauders",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Kronos",
         "shiptype": "Marauders",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Paladin",
         "shiptype": "Marauders",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Vargur",
         "shiptype": "Marauders",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Dominix",
@@ -27,7 +27,7 @@ var data = [
     {
         "label": "Barghest",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Bhaalgorn",
@@ -37,207 +37,212 @@ var data = [
     {
         "label": "Machariel",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Nightmare",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Rattlesnake",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Vindicator",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Apocalypse Navy Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Apocalypse Imperial Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Megathron Federate Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Megathron Navy Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Raven Navy Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Raven State Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Tempest Fleet Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Tempest Tribal Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Typhoon Fleet Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Dominix Navy Issue",
         "shiptype": "Navy Faction Battleships",
-        "points": 17
+        "points": 19
+    },
+    {
+        "label": "Scorpion Navy Issue",
+        "shiptype": "Navy Faction Battleships",
+        "points": 19
     },
     {
         "label": "Abaddon",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Apocalypse",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Armageddon",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Hyperion",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Maelstrom",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Megathron",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Raven",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Rokh",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Scorpion",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Tempest",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Typhoon",
         "shiptype": "Battleships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Panther",
         "shiptype": "Black Ops",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Redeemer",
         "shiptype": "Black Ops",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Sin",
         "shiptype": "Black Ops",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Widow",
         "shiptype": "Black Ops",
-        "points": 17
+        "points": 19
     },
     {
         "label": "Absolution",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Astarte",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Claymore",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Damnation",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Eos",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Nighthawk",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Sleipnir",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Vulture",
         "shiptype": "Command Ships",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Legion",
         "shiptype": "Strategic Cruisers",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Loki",
         "shiptype": "Strategic Cruisers",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Proteus",
         "shiptype": "Strategic Cruisers",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Tengu",
         "shiptype": "Strategic Cruisers",
-        "points": 16
+        "points": 18
     },
     {
         "label": "Ishtar",
@@ -367,32 +372,32 @@ var data = [
     {
         "label": "Basilisk",
         "shiptype": "Logistics Cruisers",
-        "points": 13
+        "points": 15
     },
     {
         "label": "Guardian",
         "shiptype": "Logistics Cruisers",
-        "points": 13
+        "points": 15
     },
     {
         "label": "Oneiros",
         "shiptype": "Logistics Cruisers",
-        "points": 13
+        "points": 15
     },
     {
         "label": "Scimitar",
         "shiptype": "Logistics Cruisers",
-        "points": 13
+        "points": 15
     },
     {
         "label": "Gnosis",
         "shiptype": "Special Edition Battlecruiser",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Ashimmu",
         "shiptype": "Pirate Faction Cruisers",
-        "points": 11
+        "points": 9
     },
     {
         "label": "Augoror Navy Issue",
@@ -497,102 +502,102 @@ var data = [
     {
         "label": "Broadsword",
         "shiptype": "Heavy Interdictors",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Devoter",
         "shiptype": "Heavy Interdictors",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Onyx",
         "shiptype": "Heavy Interdictors",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Phobos",
         "shiptype": "Heavy Interdictors",
-        "points": 11
+        "points": 12
     },
     {
         "label": "Augoror",
-        "shiptype": "Cruisers",
-        "points": 10
+        "shiptype": "Tech 1 Support Cruisers",
+        "points": 11
     },
     {
         "label": "Exequror",
-        "shiptype": "Cruisers",
-        "points": 10
+        "shiptype": "Tech 1 Support Cruisers",
+        "points": 11
     },
     {
         "label": "Osprey",
-        "shiptype": "Cruisers",
-        "points": 10
+        "shiptype": "Tech 1 Support Cruisers",
+        "points": 11
     },
     {
         "label": "Scythe",
-        "shiptype": "Cruisers",
-        "points": 10
+        "shiptype": "Tech 1 Support Cruisers",
+        "points": 11
     },
     {
         "label": "Arbitrator",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Bellicose",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Blackbird",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Caracal",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Celestis",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Maller",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Moa",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Omen",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Rupture",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Stabber",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Thorax",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Vexor",
         "shiptype": "Cruisers",
-        "points": 6
+        "points": 5
     },
     {
         "label": "Hyena",
@@ -616,22 +621,42 @@ var data = [
     },
     {
         "label": "Confessor",
-        "shiptype": "Strategic Destroyers",
+        "shiptype": "Tactical Destroyers",
         "points": 6
     },
     {
         "label": "Svipul",
-        "shiptype": "Strategic Destroyers",
+        "shiptype": "Tactical Destroyers",
         "points": 6
     },
     {
         "label": "Jackdaw",
-        "shiptype": "Strategic Destroyers",
+        "shiptype": "Tactical Destroyers",
         "points": 6
     },
     {
         "label": "Hecate",
-        "shiptype": "Strategic Destroyers",
+        "shiptype": "Tactical Destroyers",
+        "points": 6
+    },
+        {
+        "label": "Magus",
+        "shiptype": "Command Destroyers",
+        "points": 6
+    },
+    {
+        "label": "Bifrost",
+        "shiptype": "Command Destroyers",
+        "points": 6
+    },
+    {
+        "label": "Pontifex",
+        "shiptype": "Command Destroyers",
+        "points": 6
+    },
+    {
+        "label": "Stork",
+        "shiptype": "Command Destroyers",
         "points": 6
     },
     {
@@ -707,7 +732,7 @@ var data = [
     {
         "label": "Cruor",
         "shiptype": "Pirate Faction Frigates",
-        "points": 4
+        "points": 2
     },
     {
         "label": "Daredevil",
@@ -737,6 +762,26 @@ var data = [
     {
         "label": "Republic Fleet Firetail",
         "shiptype": "Navy Faction Frigates",
+        "points": 3
+    },
+    {
+        "label": "Crucifier Navy Issue",
+        "shiptype": "Navy Disruption Frigates",
+        "points": 3
+    },
+    {
+        "label": "Griffin Navy Issue",
+        "shiptype": "Navy Disruption Frigates",
+        "points": 3
+    },
+    {
+        "label": "Maulus Navy Issue",
+        "shiptype": "Navy Disruption Frigates",
+        "points": 3
+    },
+    {
+        "label": "Vigil Fleet Issue",
+        "shiptype": "Navy Disruption Frigates",
         "points": 3
     },
     {
@@ -773,6 +818,26 @@ var data = [
         "label": "Vigil",
         "shiptype": "Tech 1 Disruption Frigate",
         "points": 3
+    },
+    {
+        "label": "Scalpel",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Thalia",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Kirin",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
+    },
+    {
+        "label": "Deacon",
+        "shiptype": "Tech 2 Logistics Frigate",
+        "points": 5
     },
     {
         "label": "Eris",
@@ -901,18 +966,18 @@ var data = [
     },
     {
         "label": "Bantam",
-        "shiptype": "Frigates",
-        "points": 2
+        "shiptype": "Logistics Frigates",
+        "points": 5
     },
     {
         "label": "Breacher",
         "shiptype": "Frigates",
-        "points": 2
+        "points": 3
     },
     {
         "label": "Burst",
-        "shiptype": "Frigates",
-        "points": 2
+        "shiptype": "Logistics Frigates",
+        "points": 5
     },
     {
         "label": "Condor",
@@ -941,8 +1006,8 @@ var data = [
     },
     {
         "label": "Inquisitor",
-        "shiptype": "Frigates",
-        "points": 2
+        "shiptype": "Logistics Frigates",
+        "points": 5
     },
     {
         "label": "Kestrel",
@@ -961,8 +1026,8 @@ var data = [
     },
     {
         "label": "Navitas",
-        "shiptype": "Frigates",
-        "points": 2
+        "shiptype": "Logistics Frigates",
+        "points": 5
     },
     {
         "label": "Probe",
