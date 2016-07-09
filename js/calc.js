@@ -420,6 +420,11 @@ var data = [
         "points": 11
     },
     {
+        "label": "Orthrus",
+        "shiptype": "Pirate Faction Cruisers",
+        "points": 11
+    },
+    {
         "label": "Guardian-Vexor",
         "shiptype": "Faction Cruisers",
         "points": 9
