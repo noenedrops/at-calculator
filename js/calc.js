@@ -32,7 +32,7 @@ var data = [
     {
         "label": "Bhaalgorn",
         "shiptype": "Pirate Faction Battleships",
-        "points": 19
+        "points": 21
     },
     {
         "label": "Machariel",
@@ -52,7 +52,7 @@ var data = [
     {
         "label": "Vindicator",
         "shiptype": "Pirate Faction Battleships",
-        "points": 21
+        "points": 19
     },
     {
         "label": "Apocalypse Navy Issue",
@@ -397,7 +397,7 @@ var data = [
     {
         "label": "Ashimmu",
         "shiptype": "Pirate Faction Cruisers",
-        "points": 9
+        "points": 11
     },
     {
         "label": "Augoror Navy Issue",
@@ -467,7 +467,7 @@ var data = [
     {
         "label": "Vigilant",
         "shiptype": "Pirate Faction Cruisers",
-        "points": 11
+        "points": 9
     },
     {
         "label": "Cerberus",
@@ -737,12 +737,12 @@ var data = [
     {
         "label": "Cruor",
         "shiptype": "Pirate Faction Frigates",
-        "points": 2
+        "points": 4
     },
     {
         "label": "Daredevil",
         "shiptype": "Pirate Faction Frigates",
-        "points": 4
+        "points": 2
     },
     {
         "label": "Dramiel",
@@ -1114,19 +1114,19 @@ $(document).ready(function(){
     // Apply autocomplete
     setAutoComplete();
 
-	// Adding new ship to list
-	$("#newShip").click(function(){
-	var newEntry = $("#orig").clone().removeAttr("id");
+  // Adding new ship to list
+  $("#newShip").click(function(){
+  var newEntry = $("#orig").clone().removeAttr("id");
     newEntry.find("input").val("");
-	newEntry.insertAfter($(".ship").last());
+  newEntry.insertAfter($(".ship").last());
         $(".shipEntry"  ).each(function(){
             setAutoComplete();
         });
-	});
+  });
 
-	// Autofill
+  // Autofill
     function setAutoComplete(){
-	   $( ".shipEntry" ).autocomplete({source:data, delay:0});
+     $( ".shipEntry" ).autocomplete({source:data, delay:0});
     }
 
     // Overrides the default autocomplete filter function to search only from the beginning of the string
@@ -1153,10 +1153,10 @@ $(document).ready(function(){
         }else{
             $("#totalpoints").css("color","red");
         }
-        
+
     }
     calc();
-    function getPoints(val){   
+    function getPoints(val){
         for(var i = 0; i < data.length; i++){
             if(data[i].label == val){
                 return data[i].points;
@@ -1181,4 +1181,4 @@ $(document).ready(function(){
     });
 });
 
-	
+
